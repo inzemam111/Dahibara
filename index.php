@@ -509,5 +509,216 @@
 
 
 
+<!-- Start Published on 
+    ============================================= -->
+    <div>
+    <section class="published-on">
+        <div class="container site-heading">
+            <h2>Published on</h2>
+            <div class="row justify-content-center pub_pad">
+
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/1.png" alt="The Times of India" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/2.png" alt="Zee Media" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/3.png" alt="ANI News India" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/4.png" alt="Indian Express" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/5.png" alt="Business Standard" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/6.png" alt="Jio TV" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/7.png" alt="Hoteliers Talk" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/8.png" alt="Sambad"  class="img-responsive">
+                </div> 
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/8.png" alt="News 7" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/9.png" alt="PPL News" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/10.png" alt="Dainik Bhaskar" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/11.png" alt="The Samaja" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/12.png" alt="News 18" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Published_Icons/13.png" alt="Kanak News"  class="img-responsive">
+                </div>
+            </div>
+        </div>
+    </section>
+</div> 
+
+
+<!-- Start Published on updated
+    ============================================= -->
+<section class="small-published">
+
+
+    <h2>Published on</h2>
+   
+    <div class="carousel-wrap d-block d-sm-block d-xs-block d-md-none d-lg-none d-xxl-none d-xl-none">
+        <div class="owl-carousel pub">
+            <div class="item items"><img src="assets/Published_Icons/1.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/2.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/3.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/4.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/5.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/6.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/7.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/8.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/9.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/10.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/11.png"></div>
+            <div class="item items"><img src="assets/Published_Icons/12.png"></div>
+        </div>
+    </div>
+    
+
+</section>
+
+
+<!-- Start Published on 
+    ============================================= -->
+    <div>
+    <section class="published-on">
+        <div class="container site-heading">
+            <h2>Recognized By</h2>
+            <div class="row justify-content-center">
+
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/1.png" alt="The Times of India" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/2.png" alt="Zee Media" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/3.png" alt="ANI News India" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/4.png" alt="Indian Express" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/5.png" alt="Business Standard" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/6.png" alt="Jio TV" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/7.png" alt="Hoteliers Talk" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/8.png" alt="Sambad"  class="img-responsive">
+                </div> 
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/8.png" alt="News 7" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/9.png" alt="PPL News" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/10.png" alt="Dainik Bhaskar" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/11.png" alt="The Samaja" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/12.png" alt="News 18" class="img-responsive">
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/Recognized_Icons/13.png" alt="Kanak News"  class="img-responsive">
+                </div>
+            </div>
+        </div>
+    </section>
+</div> 
+
+
+<!-- Start Published on updated
+    ============================================= -->
+<section class="small-published">
+
+
+    <h2>Recognized By</h2>
+   
+    <div class="carousel-wrap d-block d-sm-block d-xs-block d-md-none d-lg-none d-xxl-none d-xl-none">
+        <div class="owl-carousel pub">
+            <div class="item items"><img src="assets/Recognized_Icons/1.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/2.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/3.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/4.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/5.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/6.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/7.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/8.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/9.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/10.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/11.png"></div>
+            <div class="item items"><img src="assets/Recognized_Icons/12.png"></div>
+        </div>
+    </div>
+    
+
+</section>
+
+
+
+
+
+
+
+<!-- End Recognized by -->
+
+
+
+<!-- updated Published on script  -->
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/owl.carousel.min.js"></script>
+<script>
+    $('.pub').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        navText: [
+            "<i class='fa fa-caret-left'></i>",
+            "<i class='fa fa-caret-right'></i>"
+        ],
+        autoplay: true,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },  
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 5
+            }
+        }
+    })
+</script>
+ 
+
 
 <?php include 'footer.php'; ?>

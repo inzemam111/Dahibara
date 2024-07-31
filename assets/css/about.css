@@ -317,13 +317,13 @@ body {
 * {
   box-sizing: border-box;
 }
-html, body {
+/* html, body {
   height: 100%;
 }
 body {
   display: grid;
   place-items: center;
-}
+} */
 .page-content {
   display: grid;
   grid-gap: 1rem;
@@ -542,13 +542,13 @@ body {
 * {
   box-sizing: border-box;
 }
-html, body {
+/* html, body {
   height: 100%;
 }
 body {
   display: grid;
   place-items: center;
-}
+} */
 .page-content-at {
   display: grid;
   grid-gap: 1rem;

@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from validthemes.net/site-template/recafe/index-6.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 17 Jul 2024 15:56:43 GMT -->
+
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
@@ -17,7 +18,7 @@
     <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
-   <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
     <link href="assets/css/flaticon-set.css" rel="stylesheet" />
     <link href="assets/css/magnific-popup.css" rel="stylesheet" />
@@ -28,6 +29,8 @@
     <link href="style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet" />
     <link href="assets/css/about.css" rel="stylesheet">
+    <link href="assets/css/menu.css" rel="stylesheet">
+
 
     <link rel="stylesheet" href="assets/css/output.css">
     <!-- ========== End Stylesheet ========== -->
@@ -68,7 +71,7 @@
                                 <input type="text" name="text" class="form-control" placeholder="Search">
                                 <button type="submit">
                                     <i class="fas fa-search"></i>
-                                </button>  
+                                </button>
                             </form>
                         </div>
                     </div>
@@ -78,7 +81,7 @@
 
             <div class="container">
 
-                
+
 
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
@@ -100,19 +103,20 @@
                         <li class="">
                             <a href="about.php">About Us</a>
                         </li>
-                        <li><a href="menu.php">Menu</a></li>
+                        <li class="">
+                            <a href="menu.php">Menu</a></li>
                         <li>
                             <a href="#">Franchise</a>
-                        </li>  
+                        </li>
                         <li>
                             <a href="#">Careers</a>
-                           
+
                         </li>
                         <li class="">
                             <a href="#">Gallery</a>
-                            
+
                         </li>
-                      
+
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div>
