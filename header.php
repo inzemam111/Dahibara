@@ -31,6 +31,8 @@
     <link href="assets/css/about.css" rel="stylesheet">
     <link href="assets/css/menu.css" rel="stylesheet">
     <link href="assets/css/career.css" rel="stylesheet">
+    <link href="assets/css/gallery.css" rel="stylesheet">
+
 
 
 
@@ -114,7 +116,7 @@
                             <a href="career.php">Careers</a>
                         </li>
                         <li class="">
-                            <a href="#">Gallery</a>
+                            <a href="gallery.php">Gallery</a>
 
                         </li>
 

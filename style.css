@@ -2844,6 +2844,8 @@ body,
   -o-transition-duration: 0.4s;
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
+  height: 542px;
+  width: 500px;
 }
 
 
