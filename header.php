@@ -30,6 +30,8 @@
     <link href="assets/css/responsive.css" rel="stylesheet" />
     <link href="assets/css/about.css" rel="stylesheet">
     <link href="assets/css/menu.css" rel="stylesheet">
+    <link href="assets/css/career.css" rel="stylesheet">
+
 
 
     <link rel="stylesheet" href="assets/css/output.css">
@@ -109,8 +111,7 @@
                             <a href="#">Franchise</a>
                         </li>
                         <li>
-                            <a href="#">Careers</a>
-
+                            <a href="career.php">Careers</a>
                         </li>
                         <li class="">
                             <a href="#">Gallery</a>

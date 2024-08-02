@@ -912,9 +912,9 @@ nav.navbar.bootsnav.navbar-fixed.no-background.fixed-border {
 }
 
 nav.navbar.bootsnav {
-  z-index: 100;
-  position: fixed;
-  width: 100%;
+    z-index: 100;
+    position: sticky;
+    width: 100%;
 }
 
 .wrap-sticky {

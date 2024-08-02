@@ -1,0 +1,103 @@
+.hero-text-career
+{
+    position: absolute;
+    top: 58%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.hero-text-career-below
+{
+    position: absolute;
+    top: 68%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+
+
+@media (max-width: 600px) {
+    .hero-text-career {
+        top: 55%;
+        left: 50%;
+        font-size: 0.5em;
+    }
+
+    .hero-text-career-below {
+        top: 68%;
+        left: 50%;
+        font-size: 0.4em;
+    }
+}
+
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .hero-text-career {
+        top: 62%;
+        left: 50%;
+        font-size: 1.5em;
+    }
+
+    .hero-text-career-below {
+        top: 73%;
+        left: 50%;
+        font-size: 0.9em;
+    }
+}
+
+@media (min-width: 1025px) {
+    .hero-text-career {
+        top: 58%;
+        left: 49%;
+        font-size: 3em;
+    }
+
+    .hero-text-career-below {
+        top: 68%;
+        left: 49%;
+        font-size: 1.8em;
+    }
+}
+
+
+.career{
+    padding-top: 60px;
+}
+
+.career h1{
+    color: #232323;
+    font-weight: normal;
+    line-height: 1.2;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    font-size: 31px;
+}
+
+.car_btn {
+    cursor: pointer;
+    margin-top: 1.7rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.065rem;
+    text-transform: uppercase;
+    color: white;
+    background-color: #ff9800d4;
+    border: none;
+    border-radius: 14px;
+}
+.career_p{
+    color: #000000;
+    line-height: 31px;
+    margin: 0 0 15px;
+    text-transform: none;
+    font-weight: 530;
+    font-size: large;
+    margin-top: 30px;
+}
+
+
